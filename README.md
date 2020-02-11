@@ -9,4 +9,4 @@ Auto-Reacts to a specific person, with a specified reaction.
 `go install github.com/haukened/kb-autoreact`
 
 ## Usage
-`[foo@bar ~]$ kb-autoreact --username chirs --reaction :hankey:`
+`[foo@bar ~]$ kb-autoreact --username chris --reaction :hankey:`
