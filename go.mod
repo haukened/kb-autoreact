@@ -1,4 +1,4 @@
-module kb-autoreact
+module github.com/haukened/kb-autoreact
 
 go 1.13
 
